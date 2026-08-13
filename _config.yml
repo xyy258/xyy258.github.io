@@ -9,7 +9,7 @@ baseurl: ""
 # Author profile
 author:
   name: "Xing Yu Yi"
-  picture: "avatar://xyy258"
+  picture: "/assets/img/profile.jpg"
   email: "xyy22@cam.ac.uk"
   social:
     github: "xyy258"
