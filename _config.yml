@@ -1,14 +1,20 @@
-theme: jekyll-theme-minimal
 title: "Xing Yu Yi"
 tagline: "Maths and all sorts"
 description: "Welcome to my site!"
 
+# Domain settings
+url: "https://xyy258.github.io"
+baseurl: ""
+
+# Author profile
 author:
   name: "Xing Yu Yi"
   email: "xyy22@cam.ac.uk"
   social:
     github: "xyy258"
 
+# Theme setup (Using Hydejack via remote_theme)
 plugins:
   - jekyll-remote-theme
+
 remote_theme: qwtel/hydejack
