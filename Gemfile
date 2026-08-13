@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Theme
+gem "jekyll", "~> 4.3"
 gem "jekyll-theme-hydejack"
 
 group :jekyll_plugins do
