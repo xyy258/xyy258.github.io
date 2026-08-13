@@ -13,8 +13,13 @@ author:
   social:
     github: "xyy258"
 
-# Theme setup (Using Hydejack via remote_theme)
-plugins:
-  - jekyll-remote-theme
+# Theme setup
+theme: jekyll-theme-hydejack
 
-remote_theme: qwtel/hydejack
+# Plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-gist
