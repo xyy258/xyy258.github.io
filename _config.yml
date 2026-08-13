@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Xing Yu Yi"
 tagline: "Maths and all sorts"
-description = "Welcome to my site!"
+description: "Welcome to my site!"
 
 author:
   name: "Xing Yu Yi"
