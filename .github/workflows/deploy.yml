@@ -20,6 +20,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js (Fixes KaTeX math rendering)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
