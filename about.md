@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  My about page!
 hide_description: true
 redirect_from:
   - /download/
@@ -11,5 +10,6 @@ redirect_from:
 
 # About
 
-This is my new website!
+Welcome to my website!
 
+My name is Xing Yu Yi, and I'm currently a student at the University of Cambridge studying Mathematics!

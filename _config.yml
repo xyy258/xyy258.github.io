@@ -37,6 +37,8 @@ menu:
     url:               /about/
   - title:             Projects
     url:               /projects/
+  - title:             CV
+    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -156,7 +158,6 @@ defaults:
 kramdown:
   math_engine:         mathjax
   math_engine_opts:    {}
-  footnote_backlink:   '&#x21a9;&#xfe0e;'
 
 
 # Hydejack Settings
