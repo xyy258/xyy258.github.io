@@ -26,6 +26,9 @@ author:
   # Used by `jekyll-feed`:
   name:                Xing Yu Yi
   email:               yixingyu05@gmail.com
+  social:
+    instagram:         85x20002x58
+    github:            xyy258
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -35,8 +38,6 @@ menu:
     url:               /about/
   - title:             Projects
     url:               /projects/
-  - title:             Documentation
-    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
