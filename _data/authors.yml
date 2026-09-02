@@ -2,21 +2,17 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Xing Yu Yi
+  email:             yixingyu05@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Xing is a student at the University of Cambridge studying mathematics, and is interested in various areas of applied mathematics and theoretical physics, which include quantum mechanics, general relativity, cosmology, fluid dynamics, and more!
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/img/sidebar-bg.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
@@ -27,9 +23,10 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          xyy258
+    linkedin:        xing-yu-yi
+    email:           xyy22@cam.ac.uk
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +55,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
