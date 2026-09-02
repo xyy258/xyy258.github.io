@@ -7,6 +7,8 @@ Here are some notes that I have made in the past. I endeavour to properly type u
 
 I'd like to express my deep gratitude for [Dexter Chua](https://dec41.user.srcf.net/), where the style of these notes are very similar to those of his, but with a few more touches of colour and annotations! Regardless, it's still got me through the many years of Tripos! On this note, [David Tong](https://davidtong.org/) is always a saviour, so many thanks to him as well for making many areas of applied maths more entertaining, fun, and approachable!
 
+Any comments/corrections are welcome (since I'm very human), and I'd be happy to receive these via email, or in-person!
+
 ---
 
 # Part II
