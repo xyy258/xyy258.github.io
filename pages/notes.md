@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Notes
 ---
-
-# Notes
 
 Here are some notes that I have made in the past. I endeavour to properly type up some more notes in my free time, but in the meantime, hopefully this page will slowly grow with more materials! I may upload some handwritten notes, but keep posted!
 

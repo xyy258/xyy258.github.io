@@ -11,7 +11,7 @@ title: Résumé
 ---
 
 ## Summary
-Currently a student at the University of Cambridge studying Mathematics. Interests lie toward problems in mathematics and the natural sciences, especially those in applied mathematics and theoretical physics, such as quantum mechanics, general relativity, fluid dynamics, and more. Actively engaged in communicating and teaching mathematics to wider audiences, where I am involved various outreach programmes.
+Currently a student at the University of Cambridge studying Mathematics, and looking into the possibility of doing a PhD, or going into sectors related to my interests, or education. Interests lie toward problems in mathematics and the natural sciences, especially those in applied mathematics and theoretical physics, such as quantum mechanics, general relativity, fluid dynamics, and more. Actively engaged in communicating and teaching mathematics to wider audiences, where I am involved various outreach programmes.
 
 Outside of this, I am also an avid musician and amateur photographer.
 
