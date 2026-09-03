@@ -29,6 +29,8 @@ Any comments/corrections are welcome (since I'm very human), and I'd be happy to
 
 Below are a list of courses that I have properly taken, and the courses in italics were mostly for my own enjoyment and/or curiosity, but this list is just a checklist for what I might upload in future... feel free to enquire about notes for courses I haven't uploaded yet!
 
-**Part II:** Principles of Quantum Mechanics; Applications of Quantum Mechanics; General Relativity; Electrodynamics; Dynamical Systems; Fluid Dynamics; Waves; Numerical Analysis; Classical Dynamics; Statistical Physics; Mathematical Biology, *Cosmology, Asymptotic Methods, and Integrable Systems*
+**Part II:** Principles of Quantum Mechanics; Applications of Quantum Mechanics; General Relativity; Electrodynamics; Dynamical Systems; Fluid Dynamics; Waves; Numerical Analysis; Classical Dynamics; Statistical Physics; Mathematical Biology; *Cosmology; Asymptotic Methods; Integrable Systems*
 
-**Part IB:** Quantum Mechanics; Fluid Dynamics; Electromagnetism; Numerical Analysis; Complex Methods; Variational Principles; Markov Chains; Optimisation; Methods; Groups, Rings and Modules; Analysis & Topology; Linear Algebra, *Statistics, Complex Analysis*
+**Part IB:** Quantum Mechanics; Fluid Dynamics; Electromagnetism; Numerical Analysis; Complex Methods; Variational Principles; Markov Chains; Optimisation; Methods; Groups, Rings and Modules; Analysis & Topology; Linear Algebra; *Complex Analysis; Statistics*
+
+**Part IA**: Analysis I; Vector Calculus; Differential Equations; Dynamics & Relativity; Numbers & Sets; Vectors & Matrices; Groups; Probability; *Mechanics*
