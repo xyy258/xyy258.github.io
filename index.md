@@ -10,5 +10,4 @@ I'm Xing, and this website will hopefully be a nice little blend of things I've 
 Have a wander through some of my webpages, and hope you enjoy! Suggestions are also welcome too!
 
 * **[Projects](/pages/projects/)**
-* **[Résumé](/pages/resume/)**
 * **[Notes](/pages/notes/)**

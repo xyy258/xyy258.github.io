@@ -8,5 +8,4 @@ My name is Xing Yu Yi (伊星宇), and I'm currently a student at the University
 Have a look around my website with some quick links below:
 
 * **[Projects](/pages/projects/)**
-* **[Résumé](/pages/resume/)**
 * **[Notes](/pages/notes/)**
