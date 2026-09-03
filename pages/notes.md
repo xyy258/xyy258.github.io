@@ -21,7 +21,7 @@ Any comments/corrections are welcome (since I'm very human), and I'd be happy to
 
 # Part IB
 
-*To come in due course...*
+*More to come in due course...*
 
 ---
 
