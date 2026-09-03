@@ -1,13 +1,13 @@
 ---
 layout: page
 image: /assets/img/sidebar-bg.jpg
+title: My Projects
 description: >
   My projects!
 hide_description: true
 ---
-# My Projects
 
-Below are some projects that I have worked on:
+Below are some projects that I have worked on, or that I am currently working on:
 
 ---
 
@@ -19,7 +19,12 @@ In this project, we investigate the formation of the bottom boundary mixed layer
 
 The details of this project can be found on the GitHub repository [here.](https://github.com/xyy258/SRIM-2026)
 
-![Ekman mixed layer with no stratification](/assets/img/projects/ekman.png)
+<img style="display:block; margin:auto;"
+  alt="Ekman mixed layer"
+  src="/assets/img/projects/ekman.png"
+  width="80%"
+  height="auto"
+/>
 
 ---
 
@@ -29,7 +34,12 @@ This was an 8-week project, as a part of the King’s Summer Research Programme,
 
 A simple research poster was made for a general audience, and the poster can be found [here](/assets/pdf/SRP%20Research%20Poster.pdf).
 
-![Diagram](/assets/img/projects/noether.png)
+<img style="display: block; margin: auto;"
+  alt="Relationship of algebraic structures"
+  src="/assets/img/projects/noether.png"
+  width ="60%"
+  height="auto"
+/>
 
 ---
 
@@ -37,7 +47,7 @@ A simple research poster was made for a general audience, and the poster can be 
 
 The Computer-Aided Teaching of All Mathematics (CATAM) Computational Projects are projects done alongside the Cambridge Mathematical Tripos during 2nd and 3rd year (Parts IB and II). The list of projects that I have completed are below:
 
-*Part IB*
+***Part IB***
 
 * Root Finding in 1D
 * Matrices over Finite Fields
@@ -45,9 +55,18 @@ The Computer-Aided Teaching of All Mathematics (CATAM) Computational Projects ar
 * The Diffusion Equation
 * Simulation of Random Samples from Parametric Distributions
 
-*Part II*
+***Part II***
 
 * Particle Drift in a Periodic Flow
 * Bound State Energies for 1D Potentials
 * Minimisation Methods
 * Cosmological Distances
+
+---
+
+**Notes** | *[Link here](/pages/notes/)*
+
+As a personal endeavour, I want to make a selection of my notes available, which I have written during my time on the Cambridge Mathematical Tripos.
+Some may be typed, others may be handwritten, but hopefully they may be a useful resource for everyone!
+
+Any comments/corrections are very welcome!
