@@ -72,8 +72,6 @@ theme: jekyll-theme-hydejack
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(0, 102, 204)
 
-google_analytics:      G-QH54J6SKMW
-
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
@@ -225,7 +223,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      true
+  cookies_banner:      false
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.
