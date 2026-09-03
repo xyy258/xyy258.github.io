@@ -31,6 +31,6 @@ Below are a list of courses that I have properly taken, and the courses in itali
 
 **Part II:** Principles of Quantum Mechanics; Applications of Quantum Mechanics; General Relativity; Electrodynamics; Dynamical Systems; Fluid Dynamics; Waves; Numerical Analysis; Classical Dynamics; Statistical Physics; Mathematical Biology; *Cosmology; Asymptotic Methods; Integrable Systems*
 
-**Part IB:** Quantum Mechanics; Fluid Dynamics; Electromagnetism; Numerical Analysis; Complex Methods; Variational Principles; Markov Chains; Optimisation; Methods; Groups, Rings and Modules; Analysis & Topology; Linear Algebra; *Complex Analysis; Statistics*
+**Part IB:** Quantum Mechanics; Fluid Dynamics; Electromagnetism; Numerical Analysis; Complex Methods; Variational Principles; Markov Chains; Optimisation; Methods; Groups, Rings & Modules; Analysis & Topology; Linear Algebra; *Complex Analysis; Statistics*
 
 **Part IA**: Analysis I; Vector Calculus; Differential Equations; Dynamics & Relativity; Numbers & Sets; Vectors & Matrices; Groups; Probability; *Mechanics*
