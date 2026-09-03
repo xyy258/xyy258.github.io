@@ -1,4 +1,4 @@
-# Welcome
+# Welcome!
 
 Hello, and welcome to my GitHub repository which houses my website!
 

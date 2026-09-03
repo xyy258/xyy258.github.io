@@ -28,7 +28,7 @@ The details of this project can be found on the GitHub repository [here.](https:
 
 ---
 
-**Noether's theorem on algebraic structures** | *July 2025 – August 2025*
+**Noether's theorem: Conservation laws and symmetries on algebraic structures** | *July 2025 – August 2025*
 
 This was an 8-week project, as a part of the King’s Summer Research Programme, supervised by Professor Martin Hyland, which was motivated by a [paper by John Baez](https://doi.org/10.48550/arXiv.2006.14741) on an algebraic approach to Noether’s theorem, and investigating this in the contexts of classical and quantum mechanics. This blends ideas from pure mathematics and mathematical physics, revisiting many original papers and books (including those by Arnold, Landau & Lifschitz), and presenting them in an accessible way for a general audience.
 
