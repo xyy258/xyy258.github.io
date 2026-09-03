@@ -19,11 +19,17 @@ In this project, we investigate the formation of the bottom boundary mixed layer
 
 The details of this project can be found on the GitHub repository [here.](https://github.com/xyy258/SRIM-2026)
 
+![Ekman mixed layer with no stratification](/assets/img/projects/ekman.png)
+
 ---
 
 **Noether's theorem on algebraic structures** | *July 2025 – August 2025*
 
 This was an 8-week project, as a part of the King’s Summer Research Programme, supervised by Professor Martin Hyland, which was motivated by a [paper by John Baez](https://doi.org/10.48550/arXiv.2006.14741) on an algebraic approach to Noether’s theorem, and investigating this in the contexts of classical and quantum mechanics. This blends ideas from pure mathematics and mathematical physics, revisiting many original papers and books (including those by Arnold, Landau & Lifschitz), and presenting them in an accessible way for a general audience.
+
+A simple research poster was made for a general audience, and the poster can be found [here](/assets/pdf/SRP%20Research%20Poster.pdf).
+
+![Diagram](/assets/img/projects/noether.png)
 
 ---
 

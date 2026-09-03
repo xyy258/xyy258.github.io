@@ -13,7 +13,7 @@ Any comments/corrections are welcome (since I'm very human), and I'd be happy to
 
 # Part II
 
-**General Relativity** | *Lent 2026* | [Notes](/notes/General%20Relativity.pdf)
+**General Relativity** | *Lent 2026* | [Notes](/assets/notes/General%20Relativity.pdf)
 
 *More to come in due course...*
 

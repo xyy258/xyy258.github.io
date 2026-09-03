@@ -11,7 +11,7 @@ title:                 Xing Yu Yi
 description:           >
   Welcome to my site, about maths and all sorts!
 # A shorter description for the sidebar.
-tagline:               Mathematician, musician, and dabbler in all sorts...
+tagline:               Mathematician, musician, and mingling in all sorts...
 
 # A list of keywords for your blog
 keywords:              []
@@ -71,6 +71,7 @@ theme: jekyll-theme-hydejack
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(0, 102, 204)
+favicon:               /assets/img/icons/favicon.ico
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
