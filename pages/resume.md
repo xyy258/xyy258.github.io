@@ -25,7 +25,7 @@ Mathematician at the University of Cambridge with strong interests in applied ma
 * **Societies:** Cambridge University Scientific Society, Cambridge University Jazz Society, King's College Music Society (Tenor in King's Voices; Keyboardist for band Silver Street)
 
 ### Chiswick School
-*2016 – 2023*
+*Sept 2016 – Aug 2023*
 * **A levels:** A* A* A* A* in Mathematics, Further Mathematics, Chemistry, Physics
 * **STEP:** Grade S,1
 * **MAT:** 88/100

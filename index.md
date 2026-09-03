@@ -11,3 +11,9 @@ Have a wander through some of my webpages, and hope you enjoy! Suggestions are a
 
 * **[Projects](/pages/projects/)**
 * **[Notes](/pages/notes/)**
+
+<img style="display:block; margin:auto;"
+  alt="King's College"
+  src="/assets/img/gallery/kings.jpeg"
+  width="60%"
+/>
