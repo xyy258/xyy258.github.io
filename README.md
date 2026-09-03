@@ -1,20 +1,7 @@
-# Hydejack Starter Kit
+# Welcome
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Hello, and welcome to my GitHub repository which houses my website!
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+I'm Xing Yu Yi, based in London/Cambridge (UK), where I hope that my website is a place where I'll be able to share different things over time.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
-
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+My website can be found [here.](https://xyy258.github.io/)
