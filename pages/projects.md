@@ -19,6 +19,8 @@ In this project, we investigate the formation of the bottom boundary mixed layer
 
 The details of this project can be found on the GitHub repository [here.](https://github.com/xyy258/SRIM-2026)
 
+A research presentation was also made and presented at the Faculty of Mathematic's Summer Research Festival 2026 in Cambridge, and this can be found [here](/assets/pdf/SRIM%202026.pdf), where it was attended by many undegraduate/postgraduate/doctoral students, as well as academic staff and fellows, and had a great show of interest from the mathematical community.
+
 <img style="display:block; margin:auto;"
   alt="Ekman mixed layer"
   src="/assets/img/projects/ekman.png"
